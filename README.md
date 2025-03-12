@@ -1,16 +1,3 @@
-# bookreview
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[인프런] 개발하는 남자의 강의 입니다
+링크: </br>
+**https://www.inflearn.com/course/bloc-%EC%B1%85%EB%A6%AC%EB%B7%B0%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A4%91%EA%B8%89/dashboard**
